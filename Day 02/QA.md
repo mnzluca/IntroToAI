@@ -45,3 +45,16 @@ Indica la risposta corretta alle domande qui sotto:
    - [ ] non è specificata la funzione di attivazione
    - [ ] non è indicata la presenza di termini di *bias*
    - [ ] tutte le opzioni di cui sopra
+
+*Nuova pagina*
+6. Ammettiamo che, dato un particolare input che chiamiamo x, lo strato di output contenga i seguenti valori, uno per neurone, nell'ordine:
+   * classe 1: 0,75
+   * classe 2: 0,21
+   * classe 3: 0,15
+   * classe 4: 0,92
+   Indica le affermazioni corrette (più di una risposta corretta possibile):
+   - [ ] non è possibile determinare a quale classe verrà assegnato x
+   - [ ] x verrà assegnato alla classe 1
+   - [ ] secondo la rete neurale, è più probabile che x appartenga alla classe 2 piuttosto che alla classe 3
+   - [ ] i valori indicati si riferiscono alla probabilità che x venga assegnato alla rispettiva classe indicata dal neurone
+   - [ ] x verrà assegnato alla classe 4
