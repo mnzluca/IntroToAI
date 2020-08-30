@@ -25,7 +25,7 @@
 
 ## Lettura di un diagramma di rete neurale
 
-![rete neurale](NN.jpg)
+![rete neurale](NN.png)
 
 Dato lo schema di una rete neurale sopra, indica
 
